@@ -1,0 +1,11 @@
+name: base
+channels:
+  - conda-forge
+dependencies:
+  - python=3.9
+  - conda
+  - pip
+  - numpy
+  - seaborn
+  - tabulate
+prefix: /Users/blairallan/miniforge3
